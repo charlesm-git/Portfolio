@@ -1,0 +1,21 @@
+# created by virtualenv automatically
+
+# Virtual Environment
+.venv/
+
+# TEST Folder / Files
+TEST/
+
+# Données
+data/
+*.json
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Python Bitcode
+__pycache__/
