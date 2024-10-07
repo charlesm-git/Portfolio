@@ -1,2 +1,8 @@
+# API
+OCMovies-API-fr/
+node_modules/
+
 #JSON format
 *.json
+
+js/
